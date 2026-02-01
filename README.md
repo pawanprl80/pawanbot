@@ -1,2 +1,0 @@
-# pawanbot
-Tradingbot
